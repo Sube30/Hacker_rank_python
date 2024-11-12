@@ -6,6 +6,8 @@ This repository includes Jupyter notebooks with solutions to Python challenges o
 ## Chapter Overview
 Each notebook covers a specific topic and includes solutions to related challenges:
 - `01_Basic_Data_Types.ipynb` - Solutions for challenges on data types (e.g., lists, tuples, and dictionaries).
+- 02_numpy.ipynb` - Solutions for challenges on numpy
+- 03_debugging.ipynb` - Solutions for challenges on how to debug
 
 
 
